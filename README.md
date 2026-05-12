@@ -100,26 +100,7 @@ The system uses real household energy data from Jenin, Palestine, including:
 
 ---
 
-## 📅 Timeline
 
-| Day | Phase | Status |
-|-----|-------|--------|
-| 1 | Setup + Data Collection | 🟡 In Progress |
-| 2 | Cleaning + EDA | ⏳ Pending |
-| 3 | Forecasting Models | ⏳ Pending |
-| 4 | Outage Model + Optimizer | ⏳ Pending |
-| 5 | Dashboard + Integration | ⏳ Pending |
-| 6 | Report + Poster + Presentation | ⏳ Pending |
-
----
-
-## 📝 License
-
-MIT License — see LICENSE file.
-
----
-
-## 🙏 Acknowledgments
 
 - AIO 2026 Competition
 - STEAM Center, Palestine
