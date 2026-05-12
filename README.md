@@ -95,7 +95,7 @@ The system uses real household energy data from Jenin, Palestine, including:
 ## 👥 Team
 
 - **Project Lead & Developers:** Mahmoud Wael & Mahmoud Nazzal
-- **Domain Expert Consultant:** Licensed Solar Engineer
+- **Domain Expert Consultant:** Licensed Solar Engineers from An-Najah National University
 - **Institution:** STEAM Center
 
 ---
