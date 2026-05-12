@@ -67,7 +67,7 @@ solar-energy-orchestrator/
 
 ```bash
 # Clone the repository
-git clone https://github.com/USERNAME/solar-energy-orchestrator.git
+git clone https://github.com/mahmoudwaael/solar-energy-orchestrator.git
 cd solar-energy-orchestrator
 
 # Install dependencies
